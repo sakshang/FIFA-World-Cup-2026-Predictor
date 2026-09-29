@@ -252,7 +252,7 @@ for match_number, opponent, third_place_team in zip(
     )
 
 round_of_32_results = {}
-
+print("\n========== ROUND OF 32 ==========")
 for match_number, teams in round_of_32.items():
 
     home_team, away_team = teams
@@ -327,7 +327,7 @@ round_of_16 = {
 }
 
 round_of_16_results = {}
-
+print("\n========== ROUND OF 16 ==========")
 for match_number, teams in round_of_16.items():
 
     home_team, away_team = teams
@@ -382,7 +382,7 @@ quarter_finals = {
 }
 
 quarter_final_results = {}
-
+print("\n========== QUARTER-FINALS ==========")
 for match_number, teams in quarter_finals.items():
 
     home_team, away_team = teams
@@ -427,7 +427,7 @@ semi_finals = {
 }
 
 semi_final_results = {}
-
+print("\n========== SEMI-FINALS ==========")
 for match_number, teams in semi_finals.items():
 
     home_team, away_team = teams
