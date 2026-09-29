@@ -282,6 +282,6 @@ The historical match data is used to calculate team performance statistics and c
 
 **Sakshang Singh**
 
-B.Tech CSE — AI
+B.Tech CSE
 
 This project is being developed as a hands-on machine learning project to explore football analytics, predictive modelling, and tournament simulation.
